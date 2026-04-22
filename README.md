@@ -3,7 +3,7 @@
 A real-time clap detection system using pose estimation (YOLO) and wrist movement analysis, visualized live with PyQtGraph.
 
 
-<img src="clap-detector-ss.png" width="50%"/>
+<img src="clap-detector-ss.png" width="80%"/>
 
 ## How It Works
 
