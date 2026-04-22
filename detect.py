@@ -86,9 +86,9 @@ if __name__ == "__main__":
                 u_dx_data.append(u_dx)
 
                 score = clap_score(s_dx, u_dx)
-                print("Score:", score)
+                # print("Score:", score)
                 if score > 0.7:
-                    print("CLAPPING")
+                    print("CLAPPING:", score)
 
 
             if len(s_dx_data) > T * TM: s_dx_data = s_dx_data[1:len(s_dx_data)]
